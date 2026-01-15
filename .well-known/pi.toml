@@ -1,6 +1,6 @@
 [[CURRENCIES]]
 code = "XAI"           # 1. 토큰 이름 (대문자 추천)
-issuer = "GD64R54SO3AHEJ7QLDGRJP33OXRFRF3CZO3GN34Z2GKPQDLNE6D7HUVL"            # 2. 발행자(Issuer) 지갑의 공개키(Public Key)
+issuer = "GD64R54SO3AHEJ7QLDGRJP33OXRFRF3CZO3GN34Z2GKPQDLNE6D7HUVL"             # 2. 발행자(Issuer) 지갑의 공개키(Public Key)
 display_decimals = 2
 name = "xAI Token"       # 3. 토큰의 풀네임
 desc = "xAI Token on Pi Testnet"
