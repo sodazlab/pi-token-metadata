@@ -4,4 +4,4 @@ issuer = "GD64R54SO3AHEJ7QLDGRJP33OXRFRF3CZO3GN34Z2GKPQDLNE6D7HUVL"             
 display_decimals = 2
 name = "xAI Token"       # 3. 토큰의 풀네임
 desc = "xAI Token on Pi Testnet"
-image = "https://github.com/sodazlab/pi-token-metadata/blob/30a53936e3000a297460a80a3383a769bb72a865/tk-4.png"      # 4. 아까 복사한 로고 이미지 주소
+image = "https://raw.githubusercontent.com/sodazlab/pi-token-metadata/30a53936e3000a297460a80a3383a769bb72a865/tk-4.png"      # 4. 아까 복사한 로고 이미지 주소
